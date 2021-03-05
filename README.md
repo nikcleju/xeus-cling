@@ -9,7 +9,7 @@ Lab 03: [Random Data Generator](notebooks/L03_RandomDataGenerator.ipynb) [![Bind
 
 ## About
 
-The labBased on `xeus-cling`, a Jupyter kernel for C++ based on the C++ interpreter [cling](https://github.com/root-project/cling) and
+These laboratories use `xeus-cling`, a Jupyter kernel for C++ based on the C++ interpreter [cling](https://github.com/root-project/cling) and
 the native implementation of the Jupyter protocol [xeus](https://github.com/jupyter-xeus/xeus).
 
 ![xeus-cling](docs/source/xeus-cling.svg)
